@@ -1,3 +1,3 @@
-fun main(){
-    println("hello world!")
+fun main() {
+    println("Hello, ${World.get()}!")
 }
